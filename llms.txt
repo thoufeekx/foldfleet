@@ -1,0 +1,17 @@
+# Fold Fleet: Sea Strike
+
+Fold Fleet: Sea Strike is a free naval strategy game for iPhone with offline computer battles, online Game Center matches, and Real 3D ocean or classic Legacy grid modes.
+
+## Key facts
+- Free to download and play on iPhone with iOS 17 or later.
+- Play vs Computer works offline; online matches use Apple Game Center.
+- Real mode is a boardless 3D ocean with missiles, airstrikes, torpedoes, and sonar; Legacy mode uses a classic grid and pegs.
+- Special layouts support foldable iPhone tabletop, book, and flat positions.
+- No personal data is collected by the app; progress stays on-device, with no ads or tracking. Apple provides Game Center and StoreKit.
+
+## Pages
+- [Home](./index.html)
+- [FAQ](./faq.html)
+- [Support](./support.html)
+- [Privacy](./privacy.html)
+- [Terms](./terms.html)
